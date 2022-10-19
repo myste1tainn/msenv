@@ -1,4 +1,4 @@
-module github.com/myste1tainn/hexenv
+module github.com/myste1tainn/msenv
 
 go 1.18
 
